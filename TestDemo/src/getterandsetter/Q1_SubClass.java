@@ -1,8 +1,8 @@
 package getterandsetter;
 
-public class SubClass {
+public class Q1_SubClass {
     public static void main(String [] args){
-    SubClass s = new SubClass();
+    Q1_SubClass s = new Q1_SubClass();
     s.employeeDetails();
 
 
@@ -10,7 +10,7 @@ public class SubClass {
 }
 
    public void employeeDetails() {
-       BaseClass b = new BaseClass();
+       Q1_BaseClass b = new Q1_BaseClass();
        b.setName("Kriti");
        b.setAge(25);
        b.setCountry("India");

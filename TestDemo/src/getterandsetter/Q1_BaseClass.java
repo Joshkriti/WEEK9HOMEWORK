@@ -1,15 +1,15 @@
 package getterandsetter;
 
-public class BaseClass {
+public class Q1_BaseClass {
     /*
     1. Write a Java program to create a class called Person with private instance variables
 name, age. and country. Provide public getter and setter methods to access and modify
 these variables.
      */
 
-    String name;
-    int age;
-    String country;
+    private String name;
+    private int age;
+    private String country;
 
     public String getName() {
         return name;
