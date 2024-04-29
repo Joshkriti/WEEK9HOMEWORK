@@ -2,7 +2,7 @@ package week9homework;
 
 import java.util.HashMap;
 
-public class Question_7 {
+public class Question_07 {
     /*
     7. Create a HashMap object called people that will store String keys and Integer
 values: And use for each loop to iterate the value from Map.
